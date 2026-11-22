@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Signed with an Apple Developer ID and notarized by Apple: Snowsill now opens without any security warning.
+- Installed copies update to this version automatically.
+
 ## 1.0.0
 
 First release of Snowsill, developed by Lakshya Badjatya.

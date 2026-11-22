@@ -96,8 +96,9 @@ Snowsill checks for updates when it starts and once a day, downloads new version
    <p align="center"><img src="docs/images/installer.png" alt="The Snowsill installer window: drag the Snowsill icon onto the Applications folder" width="560"></p>
 
 3. **Open Snowsill** from Applications or Launchpad.
-4. If macOS says it **cannot verify the developer**, open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to Snowsill, then confirm. You only need to do this once.
-5. A welcome screen appears. Click **Start the snow**. ❄️
+4. A welcome screen appears. Click **Start the snow**. ❄️
+
+Snowsill is **signed with an Apple Developer ID and notarized by Apple**, so it opens without any security warning.
 
 <p align="center"><img src="docs/images/welcome.png" alt="The Snowsill welcome screen: Let it snow on your Mac, with tips and a Start the snow button" width="460"></p>
 
@@ -186,6 +187,9 @@ Full details: [PRIVACY.md](PRIVACY.md).
 **Is Snowsill free?**
 Yes, Snowsill is free to download and use.
 
+**Is it safe to install?**
+Yes. Snowsill is signed with an Apple Developer ID and notarized by Apple, which means Apple has checked it for malicious software.
+
 **Will it slow my Mac down?**
 No. It uses the GPU, about 3–4% CPU while snowing, and nothing when idle. You can also have it pause on battery.
 
@@ -213,7 +217,7 @@ Yes. Turn on *Match the weather in my city* in the Sky tab and type your city.
 
 | Problem | Fix |
 |---|---|
-| macOS won't open Snowsill | System Settings → Privacy & Security → **Open Anyway** (see [install](#download-and-install)). |
+| macOS won't open Snowsill | Make sure you downloaded it from the [Releases page](https://github.com/LakshyaBadjatya/Snowsill/releases/latest) and are on macOS 15 or later. |
 | No snow appears | Make sure the switch at the top of the menu is on, and the Sky tab isn't set to *Clear*. Check the **schedule** and **display** switches in the More tab, and that you're not in a full-screen app. |
 | Snow sits slightly off the Dock's edges | Turn on *Precise Dock and desktop icons* in the More tab and allow Accessibility. |
 | Snow covers something I'm working on | Use *Only on the desktop* or add the app to *Keep snow off these apps*. |
