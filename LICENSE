@@ -1,0 +1,30 @@
+Snowsill — Source-Available License
+Copyright (c) 2026 Lakshya Badjatya. All rights reserved.
+
+Snowsill, including its source code, artwork, icons, name and logo, is the
+property of Lakshya Badjatya. The source code is published so people can read
+it, learn from it, verify what the app does, report problems and suggest
+improvements.
+
+You MAY:
+  • read and study the source code;
+  • download and use the official Snowsill app, free of charge, for personal use;
+  • open issues and submit pull requests to this repository. By submitting a
+    contribution you agree that Lakshya Badjatya may use, modify and
+    distribute it as part of Snowsill under any license.
+
+You MAY NOT, without prior written permission from Lakshya Badjatya:
+  • copy, redistribute, sublicense or sell the source code or the app, in whole
+    or in part, modified or unmodified;
+  • publish the app, or an app built from this code, on any store or website;
+  • use the name "Snowsill", its icon, artwork or branding;
+  • create derivative or competing products from this code.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+SOFTWARE OR ITS USE.
+
+Questions or permission requests: open an issue on
+https://github.com/LakshyaBadjatya/Snowsill

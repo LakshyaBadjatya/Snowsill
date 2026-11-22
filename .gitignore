@@ -1,0 +1,13 @@
+.build/
+build/
+.DS_Store
+*.xcodeproj
+.swiftpm/
+.venv/
+.build-appstore/
+private/
+build/
+.build-appstore/
+.venv/
+*.dmg
+*.zip

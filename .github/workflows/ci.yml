@@ -1,0 +1,12 @@
+name: Tests
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Simulation tests
+        run: SNOWSILL_APPSTORE=1 swift test
